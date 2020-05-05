@@ -24,7 +24,7 @@ your model. Feature selection will reduce complexity, reduce the time
 when training an algorithm, and improve the accuracy of your model (if
 we select them wisely). However, this is not a trivial task.
 
-You can access to the original UBC-MDS repository in [this link.](https://github.com/UBC-MDS/feature-selection-python)
+You can access to the original UBC-MDS repository in [this link.](https://github.com/UBC-MDS/feature-selection-r)
 
 The **featureselection** package for `R` can help you with this task. It
 is similar to its companion package [featureselection Package for
